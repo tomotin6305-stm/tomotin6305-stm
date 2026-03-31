@@ -1,3 +1,3 @@
 ## Hi there 👋
 I learning JavaScript.
-I'm still working on it.
+My progress is very slow, but I won't give up.
